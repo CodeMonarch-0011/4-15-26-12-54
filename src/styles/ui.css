@@ -47,6 +47,7 @@
 .footer-icons span {
   font-size: 0.98rem;
   cursor: pointer;
+  color: white;
 }
 
 .navbar-menu-icon {
@@ -103,7 +104,7 @@
 }
 
 .footer-icons {
-  display: none;
+  /* display: none; */
 }
 
 .copyrights {
